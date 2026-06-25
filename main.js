@@ -1,0 +1,1 @@
+const numeroSenha = document.query.Selector
