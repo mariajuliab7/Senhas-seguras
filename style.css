@@ -122,7 +122,6 @@ label {
     background-color: var(--fundo-senha);
     height: 30px;
     width: 100%;
-    border: 1px solid var (--borda);
 }
 
 .forca {
@@ -132,18 +131,18 @@ label {
 }
 
 .fraca {
-    width: 25%;
     background-color: #E71B32;
+    width: 25%;
 }
 
 .media {
-    width: 50%;
     background-color: #FAF408;
+    width: 50%;
 }
 
 .forte {
-    width: 100%;
     background-color: #00FF85;
+    width: 100%;
 }
 
 .parametro-senha-textos {
